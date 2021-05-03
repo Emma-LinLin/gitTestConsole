@@ -8,6 +8,8 @@ namespace gitTestConsole
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Welcome to the program for testing through console");
+
+            Console.WriteLine("Very cool! ⚡");
         }
     }
 }
